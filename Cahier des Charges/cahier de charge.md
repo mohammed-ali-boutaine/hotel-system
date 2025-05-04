@@ -52,7 +52,6 @@ Ce projet vise à simplifier le processus de réservation hôtelière et à four
 - **Consulter la disponibilité des chambres** : Éviter les sur-réservations.
 - **Gérer les images des chambres** : Téléchargement et gestion des photos.
 - **Générer des rapports** : (À confirmer) Suivi des performances (occupations, revenus).
-- **Gérer les comptes utilisateurs** : Administration des comptes invités.
 - **Envoyer des notifications** : (À confirmer) Notifications sur les réservations.
 - **Chat** : (À confirmer)
 
