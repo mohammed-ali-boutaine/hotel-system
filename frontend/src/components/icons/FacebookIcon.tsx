@@ -1,0 +1,24 @@
+// components/FacebookIcon.tsx
+
+interface FacebookIconProps {
+  width?: number;
+  height?: number;
+  className?: string;
+}
+
+const FacebookIcon = ({ width = 18, height = 18, className }: FacebookIconProps) => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width={width}
+    height={height}
+    viewBox="0 0 320 512"
+    className={className}
+  >
+    <path
+      fill="#1877F2"
+      d="M279.14 288l14.22-92.66h-88.91V131.56c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S261.88 0 225.36 0c-73.06 0-121 44.38-121 124.72V195.3H22.89V288h81.47v224h100.2V288z"
+    />
+  </svg>
+);
+
+export default FacebookIcon;
