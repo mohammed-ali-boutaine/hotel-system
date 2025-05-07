@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="GpANf77li3baw1R7QIYz" name="Page-1">
-        <mxGraphModel dx="3803" dy="5560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="1128" dy="4082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -399,17 +399,8 @@
                         <mxPoint x="1329" y="-1752" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="TeEnYAT1AzZHddWZ_Jz3-150" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;reset password by email&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CC99FF;align=center;" parent="1" vertex="1">
-                    <mxGeometry x="1323.5" y="-1900" width="150" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="TeEnYAT1AzZHddWZ_Jz3-151" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SRCQ-mJ2vQPZ1YFcp3_C-160" target="TeEnYAT1AzZHddWZ_Jz3-150" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="1140" y="-1898" as="sourcePoint"/>
-                        <mxPoint x="1327" y="-1660" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
                 <mxCell id="4Gaju7PyvdOcvN30CBUa-149" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;whichlists&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CC99FF;align=center;" parent="1" vertex="1">
-                    <mxGeometry x="1326" y="-1820" width="150" height="60" as="geometry"/>
+                    <mxGeometry x="1320" y="-1900" width="150" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="4Gaju7PyvdOcvN30CBUa-151" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="SRCQ-mJ2vQPZ1YFcp3_C-160" target="4Gaju7PyvdOcvN30CBUa-149" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -447,18 +438,6 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="4Gaju7PyvdOcvN30CBUa-164" value="&amp;lt;&lt;font style=&quot;font-size: 18px;&quot;&gt;include&lt;/font&gt;&amp;gt;" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.372;entryY=0.948;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="TeEnYAT1AzZHddWZ_Jz3-150" target="SRCQ-mJ2vQPZ1YFcp3_C-150" edge="1">
-                    <mxGeometry x="-0.0023" width="160" relative="1" as="geometry">
-                        <mxPoint x="1510" y="-2097" as="sourcePoint"/>
-                        <mxPoint x="2052" y="-2407" as="targetPoint"/>
-                        <Array as="points">
-                            <mxPoint x="1660" y="-1980"/>
-                            <mxPoint x="1830" y="-2100"/>
-                            <mxPoint x="1960" y="-2250"/>
-                        </Array>
-                        <mxPoint as="offset"/>
-                    </mxGeometry>
-                </mxCell>
                 <mxCell id="4Gaju7PyvdOcvN30CBUa-166" value="&amp;lt;&lt;font style=&quot;font-size: 18px;&quot;&gt;include&lt;/font&gt;&amp;gt;" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4Gaju7PyvdOcvN30CBUa-149" target="SRCQ-mJ2vQPZ1YFcp3_C-150" edge="1">
                     <mxGeometry x="-0.0023" width="160" relative="1" as="geometry">
                         <mxPoint x="1530" y="-2077" as="sourcePoint"/>
@@ -471,64 +450,64 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;view rooms detail&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CC99FF;" vertex="1" parent="1">
+                <mxCell id="2" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;view rooms detail&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CC99FF;" parent="1" vertex="1">
                     <mxGeometry x="1323.5" y="-2400" width="150" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SRCQ-mJ2vQPZ1YFcp3_C-160" target="2">
+                <mxCell id="3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SRCQ-mJ2vQPZ1YFcp3_C-160" target="2" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1160" y="-2291" as="sourcePoint"/>
                         <mxPoint x="1334" y="-2447" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="5" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;view&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;align=center;" vertex="1" parent="1">
+                <mxCell id="5" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;view&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;align=center;" parent="1" vertex="1">
                     <mxGeometry x="1240" y="-1010" width="106.5" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="5" target="SRCQ-mJ2vQPZ1YFcp3_C-228">
+                <mxCell id="6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="5" target="SRCQ-mJ2vQPZ1YFcp3_C-228" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1378" y="-940" as="sourcePoint"/>
                         <mxPoint x="1386" y="-1030" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="7" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;gerer rooms&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
+                <mxCell id="7" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;gerer rooms&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;" parent="1" vertex="1">
                     <mxGeometry x="1284.25" y="-890" width="188.5" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;view&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;align=center;" vertex="1" parent="1">
+                <mxCell id="8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;view&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;align=center;" parent="1" vertex="1">
                     <mxGeometry x="1240" y="-790" width="106.5" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" source="8" target="7" parent="1">
+                <mxCell id="9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="8" target="7" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1378" y="-720" as="sourcePoint"/>
                         <mxPoint x="1386" y="-810" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="11" target="7" parent="1">
+                <mxCell id="10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="11" target="7" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1506.5" y="-750" as="sourcePoint"/>
                         <mxPoint x="1433.5" y="-779" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;remove&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;align=center;" vertex="1" parent="1">
+                <mxCell id="11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;remove&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;align=center;" parent="1" vertex="1">
                     <mxGeometry x="1314.25" y="-730" width="106.5" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;add room&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
+                <mxCell id="12" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;add room&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;" parent="1" vertex="1">
                     <mxGeometry x="1412" y="-770" width="150" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.604;entryY=1.024;entryDx=0;entryDy=0;exitX=0.431;exitY=-0.015;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" source="12" target="7" parent="1">
+                <mxCell id="13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.604;entryY=1.024;entryDx=0;entryDy=0;exitX=0.431;exitY=-0.015;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="12" target="7" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1343" y="-748" as="sourcePoint"/>
                         <mxPoint x="1353" y="-809" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="14" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;update room detail&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;align=center;" vertex="1" parent="1">
+                <mxCell id="14" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;update room detail&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;align=center;" parent="1" vertex="1">
                     <mxGeometry x="1520" y="-820" width="150" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.936;entryY=0.703;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" source="14" target="7" parent="1">
+                <mxCell id="15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.936;entryY=0.703;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="14" target="7" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1454" y="-745" as="sourcePoint"/>
                         <mxPoint x="1433" y="-800" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SRCQ-mJ2vQPZ1YFcp3_C-205" target="7">
+                <mxCell id="16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="SRCQ-mJ2vQPZ1YFcp3_C-205" target="7" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1140" y="-1134" as="sourcePoint"/>
                         <mxPoint x="1294" y="-1070" as="targetPoint"/>
@@ -537,28 +516,28 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="17" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;view booking&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
+                <mxCell id="17" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;view booking&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;" parent="1" vertex="1">
                     <mxGeometry x="1292.5" y="-660" width="150" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;hotel booking&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
+                <mxCell id="18" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;hotel booking&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;" parent="1" vertex="1">
                     <mxGeometry x="1500" y="-680" width="150" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;globalbooking&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
+                <mxCell id="19" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;globalbooking&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;" parent="1" vertex="1">
                     <mxGeometry x="1473.5" y="-600" width="150" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="18" target="17">
+                <mxCell id="20" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="18" target="17" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1531" y="-624" as="sourcePoint"/>
                         <mxPoint x="1451" y="-660" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="19" target="17">
+                <mxCell id="21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="19" target="17" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1510" y="-620" as="sourcePoint"/>
                         <mxPoint x="1453" y="-620" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="17">
+                <mxCell id="22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="17" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1125" y="-1140" as="sourcePoint"/>
                         <mxPoint x="1324" y="-872" as="targetPoint"/>
@@ -567,7 +546,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="23" value="&amp;lt;&lt;font style=&quot;font-size: 18px;&quot;&gt;include&lt;/font&gt;&amp;gt;" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.054;entryY=0.691;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7">
+                <mxCell id="23" value="&amp;lt;&lt;font style=&quot;font-size: 18px;&quot;&gt;include&lt;/font&gt;&amp;gt;" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.054;entryY=0.691;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7" edge="1">
                     <mxGeometry x="-0.0023" width="160" relative="1" as="geometry">
                         <mxPoint x="1483" y="-1070" as="sourcePoint"/>
                         <mxPoint x="1950" y="-1184" as="targetPoint"/>
@@ -577,7 +556,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="24" value="&amp;lt;&lt;font style=&quot;font-size: 18px;&quot;&gt;include&lt;/font&gt;&amp;gt;" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.054;entryY=0.691;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="17">
+                <mxCell id="24" value="&amp;lt;&lt;font style=&quot;font-size: 18px;&quot;&gt;include&lt;/font&gt;&amp;gt;" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.054;entryY=0.691;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="17" edge="1">
                     <mxGeometry x="-0.0023" width="160" relative="1" as="geometry">
                         <mxPoint x="1466" y="-867" as="sourcePoint"/>
                         <mxPoint x="1960" y="-1174" as="targetPoint"/>
@@ -587,82 +566,82 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="26" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;manage rooms&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" vertex="1" parent="1">
+                <mxCell id="26" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;manage rooms&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" parent="1" vertex="1">
                     <mxGeometry x="1283" y="240" width="159.5" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="" style="endArrow=classic;html=1;" edge="1" source="30" target="26" parent="1">
+                <mxCell id="27" value="" style="endArrow=classic;html=1;" parent="1" source="30" target="26" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1477.768" y="390" as="sourcePoint"/>
                         <mxPoint x="1286" y="340" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="28" value="" style="endArrow=classic;html=1;" edge="1" source="29" target="26" parent="1">
+                <mxCell id="28" value="" style="endArrow=classic;html=1;" parent="1" source="29" target="26" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1420.75" y="516" as="sourcePoint"/>
                         <mxPoint x="1401.75" y="470" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="29" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;delete&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" vertex="1" parent="1">
+                <mxCell id="29" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;delete&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" parent="1" vertex="1">
                     <mxGeometry x="1476" y="270" width="86" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;show&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" vertex="1" parent="1">
+                <mxCell id="30" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;show&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" parent="1" vertex="1">
                     <mxGeometry x="1442.5" y="330" width="86" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SRCQ-mJ2vQPZ1YFcp3_C-241" target="26">
+                <mxCell id="31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="SRCQ-mJ2vQPZ1YFcp3_C-241" target="26" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1100" y="67" as="sourcePoint"/>
                         <mxPoint x="1320" y="100" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="41" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;view booking&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" vertex="1" parent="1">
+                <mxCell id="41" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;view booking&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" parent="1" vertex="1">
                     <mxGeometry x="1301.75" y="10" width="159.5" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="42" value="" style="endArrow=none;html=1;rounded=0;exitX=0.667;exitY=0.417;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SRCQ-mJ2vQPZ1YFcp3_C-241" target="41">
+                <mxCell id="42" value="" style="endArrow=none;html=1;rounded=0;exitX=0.667;exitY=0.417;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="SRCQ-mJ2vQPZ1YFcp3_C-241" target="41" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1085" y="65" as="sourcePoint"/>
                         <mxPoint x="1323" y="186" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="50" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;gerer tags&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" vertex="1" parent="1">
+                <mxCell id="50" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;gerer tags&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" parent="1" vertex="1">
                     <mxGeometry x="1306.5" y="600" width="173" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="51" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;view&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" vertex="1" parent="1">
+                <mxCell id="51" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;view&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" parent="1" vertex="1">
                     <mxGeometry x="1318" y="695" width="86" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="52" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;delete&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" vertex="1" parent="1">
+                <mxCell id="52" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;delete&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" parent="1" vertex="1">
                     <mxGeometry x="1412" y="710" width="140" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="53" value="" style="endArrow=classic;html=1;entryX=0.293;entryY=0.934;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="51" target="50">
+                <mxCell id="53" value="" style="endArrow=classic;html=1;entryX=0.293;entryY=0.934;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="51" target="50" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1336" y="538" as="sourcePoint"/>
                         <mxPoint x="1364" y="509" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="54" value="" style="endArrow=classic;html=1;entryX=0.713;entryY=0.969;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="52" target="50">
+                <mxCell id="54" value="" style="endArrow=classic;html=1;entryX=0.713;entryY=0.969;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="52" target="50" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1357" y="725" as="sourcePoint"/>
                         <mxPoint x="1373" y="691" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="55" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;update&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" vertex="1" parent="1">
+                <mxCell id="55" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;update&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" parent="1" vertex="1">
                     <mxGeometry x="1520" y="640" width="140" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="56" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;add&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" vertex="1" parent="1">
+                <mxCell id="56" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot;&gt;add&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;align=center;" parent="1" vertex="1">
                     <mxGeometry x="1510" y="560" width="140" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="57" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="55" target="50">
+                <mxCell id="57" value="" style="endArrow=classic;html=1;" parent="1" source="55" target="50" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1475" y="721" as="sourcePoint"/>
                         <mxPoint x="1440" y="668" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="58" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="56" target="50">
+                <mxCell id="58" value="" style="endArrow=classic;html=1;" parent="1" source="56" target="50" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1537" y="664" as="sourcePoint"/>
                         <mxPoint x="1480" y="654" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="59" value="&amp;lt;&lt;font style=&quot;font-size: 18px;&quot;&gt;include&lt;/font&gt;&amp;gt;" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.202;entryY=0.896;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="50">
+                <mxCell id="59" value="&amp;lt;&lt;font style=&quot;font-size: 18px;&quot;&gt;include&lt;/font&gt;&amp;gt;" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.202;entryY=0.896;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="50" edge="1">
                     <mxGeometry x="-0.0023" width="160" relative="1" as="geometry">
                         <mxPoint x="1484" y="435" as="sourcePoint"/>
                         <mxPoint x="1996" y="84" as="targetPoint"/>
@@ -673,13 +652,50 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="60" value="&amp;lt;&lt;font style=&quot;font-size: 18px;&quot;&gt;include&lt;/font&gt;&amp;gt;" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.202;entryY=0.896;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="26">
+                <mxCell id="60" value="&amp;lt;&lt;font style=&quot;font-size: 18px;&quot;&gt;include&lt;/font&gt;&amp;gt;" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.202;entryY=0.896;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="26" edge="1">
                     <mxGeometry x="-0.0023" width="160" relative="1" as="geometry">
                         <mxPoint x="1484" y="435" as="sourcePoint"/>
                         <mxPoint x="1996" y="84" as="targetPoint"/>
                         <Array as="points">
                             <mxPoint x="1750" y="240"/>
                         </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="61" value="&amp;lt;&lt;font style=&quot;font-size: 18px;&quot;&gt;include&lt;/font&gt;&amp;gt;" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="41">
+                    <mxGeometry x="-0.0023" width="160" relative="1" as="geometry">
+                        <mxPoint x="1470" y="-30" as="sourcePoint"/>
+                        <mxPoint x="1960" y="60" as="targetPoint"/>
+                        <Array as="points"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="62" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SRCQ-mJ2vQPZ1YFcp3_C-241" target="50">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1100" y="90" as="sourcePoint"/>
+                        <mxPoint x="1311" y="435" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="63" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SRCQ-mJ2vQPZ1YFcp3_C-151" target="SRCQ-mJ2vQPZ1YFcp3_C-157">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1165" y="-2830" as="sourcePoint"/>
+                        <mxPoint x="1334" y="-2700" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="64" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SRCQ-mJ2vQPZ1YFcp3_C-151" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1178" y="-2800" as="sourcePoint"/>
+                        <mxPoint x="1334" y="-2447" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="65" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Nunito Sans, sans-serif&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;leave review&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CC99FF;" vertex="1" parent="1">
+                    <mxGeometry x="1589" y="-2270" width="121.5" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="65" target="SRCQ-mJ2vQPZ1YFcp3_C-161">
+                    <mxGeometry x="-0.0023" width="160" relative="1" as="geometry">
+                        <mxPoint x="1455" y="-2211" as="sourcePoint"/>
+                        <mxPoint x="2007" y="-2432" as="targetPoint"/>
+                        <Array as="points"/>
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
