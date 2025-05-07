@@ -102,16 +102,6 @@ For more details, refer to the [Backend Documentation](./backend/README.md).
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Set up the frontend and backend as described above.
-3. Start both servers and access the application via the frontend.
-
----
 
 ## 📜 License
 
